@@ -18,7 +18,6 @@
     });
 
 		//
-		$(".header").sticky({ topSpacing: 0 });
 
 		//
 		$('.all-b').toggle(function(e){
